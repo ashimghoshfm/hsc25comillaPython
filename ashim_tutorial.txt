@@ -1,0 +1,10 @@
+welcome to Comilla Board SSC/HSC roll via data server
+
+1. make a folder in c drive: "WebDrive" and put chromedriver.exe file on there.
+2. add the path of chromedriver in your Edit System Environment Variables "C:\WebDriver"
+3. now install necessary files for the project by:
+        pip install -r requirements.txt
+
+4. Keep rolls as u want in 'rolls.txt'
+
+run the file now!!!
